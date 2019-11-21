@@ -1,0 +1,9 @@
+inicio
+
+imprima(95 + 3);
+imprima(62 - 13);
+imprima(44 * 3);
+imprima(918 / 8);
+imprima(7 % 2);
+
+fim

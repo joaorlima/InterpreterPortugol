@@ -1,0 +1,21 @@
+inicio
+
+    inteiro: b;
+    inteiro: c;
+
+    imprima("digite um valor para c");
+    leia(c);
+
+    se c % 2 == 0
+        entao
+            imprima("Número digitado é ...");
+
+        para b ate c passo 1
+            imprima("par!");
+        fim_para
+
+        senao
+            imprima("Número digitado é ímpar.");
+    fim_se
+
+fim

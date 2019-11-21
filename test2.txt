@@ -1,0 +1,10 @@
+inicio
+
+    inteiro: b = 5;
+    inteiro: c;
+
+    para b ate c
+        imprima(b);
+    fim_para
+
+fim
